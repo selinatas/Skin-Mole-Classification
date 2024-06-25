@@ -61,6 +61,9 @@ Just upload you skin mole photo and select your model, code will do the rest!!
 
 * Make sure that you download the necessary libraries with pip install torch torchvision pandas matplotlib streamlit pillow albumentations opencv-python
 * Download the dataset from kaggle https://www.kaggle.com/datasets/adisongoh/skin-moles-benign-vs-malignant-melanoma-isic19
+  and copy the label_NV and label_MEL files under a empty file called dataset. This part is important, the file structure must be like the below!!
+  <img width="172" alt="image" src="https://github.com/selinatas/Skin-Mole-Classification/assets/110598211/cbdde9cd-8983-4ecb-83c2-e4894d76fa8e">
+ 
 * type "streamlit run app.py" in terminal
 
  Enjoy!
