@@ -54,7 +54,7 @@ Just upload you skin mole photo and select your model, code will do the rest!!
 
 * app.py:
   Provides a user-friendly interface for classifying skin moles using pre-trained deep learning models, making it accessible for users to interact with the models without needing to     
-  understand the underlying code or architecture.
+  understand the underlying code or architecture. ONLY NEED TO RUN THIS CODE!
 
 
 ## How to run the application ❔
