@@ -1,5 +1,5 @@
 # Skin Mole Classification Web Application 🏥
-Skin Moles: Benign vs Malignant (Melanoma) Classification using ISIC 2019 dataset with 9,522 images for Samsung Innovation Campus and United Naitons' Sustainable Development Goals (particularly sdgs 3,9,10).
+Skin Moles: Benign vs Malignant (Melanoma) Classification using ISIC 2019 dataset with 9,522 images for Samsung Innovation Campus and United Naitons' Sustainable Development Goals (particularly SDGs 3,9, and 10).
 Upload your skin mole picture to understand if it is malignant or not! 🤓
 
 ## Motivation :fire:
